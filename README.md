@@ -1,5 +1,7 @@
 # INEP [^inep] (syntactic) Anonymization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6533684.svg)](https://doi.org/10.5281/zenodo.6533684)
+
 Code and attributes hierarchies used for the anonymization process of INEP datasets using [ARX Deidentifier](https://github.com/arx-deidentifier/arx) tool.
 
 DOI: [10.5281/zenodo.6533684](https://doi.org/10.5281/zenodo.6533684).
